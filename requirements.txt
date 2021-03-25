@@ -1,4 +1,4 @@
 pandas==0.24.2
-PyYAML==5.1
+PyYAML==5.4
 requests==2.22.0
 streamlit==0.55.0
